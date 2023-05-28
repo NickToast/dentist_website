@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*color theme*/
+.color-themeeees {
+    color: #bee9e8;
+    color: #62b6cb;
+    color: #1b4965;
+    color: #cae9ff;
+    color: #5fa8d3;
+}
+
+
+.row {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-bg-color {
+    background-color: #1b4965;
+}
+
+.hero-container {
+    background: url('images/dental-instruments.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 50%;
+}
+
+.btn-color {
+    background-color: #62b6cb;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+/*maps background image for mobile*/
+.maps-background {
+    background: url('/images/dental-map.png');
+    height: 100%;
+}
+
+.icon-tooth-picture {
+    border-radius: 50%;
+    height: 30%;
+    width: 30%;
+}
