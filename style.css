@@ -55,3 +55,10 @@
     height: 500px;
     width: 100%;
 }
+
+/*Footer Styling*/
+
+.footer p,
+a {
+    font-size: 0.90rem;
+}
